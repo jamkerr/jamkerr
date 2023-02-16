@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm James!
+
+I'm a web developer with a broad background in tech and research. I get excited by [stuff like this](https://pudding.cool/2022/04/random/).
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamkerr&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![James' GitHub stats](https://github-readme-stats.vercel.app/api?username=jamkerr&theme=jolly&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jamkerr/jamkerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
