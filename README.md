@@ -1,11 +1,13 @@
-### Hi there 👋, I'm James!
+### Hi 👋, I'm James!
 
-I'm a web developer with a broad background in tech, writing, and research. I get excited by [stuff like this](https://pudding.cool/2022/04/random/).
+I'm a web developer with a broad background in tech, writing, and research.
 
-You can read some more [info about me here](https://jamkerr.github.io/portfolio-site/). Or let's connect on:
-<a href="https://www.linkedin.com/in/james-a-kerr/">
-  <img alt="James' LinkedIn" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+- 😄 Pronouns: he/him or they/them
+- 😍 I get excited by: interactive stories with data [like this](https://pudding.cool/2022/04/random/)
+- 💻 I'm currently: open to work and collaborations
+- 📫 You can reach me at: jameskerr.dev@gmail.com or [LinkedIn](https://www.linkedin.com/in/james-a-kerr/)
+
+You can read some more [about me here](https://jameskerr.dev).
 
 ---
 
