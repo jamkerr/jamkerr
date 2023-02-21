@@ -2,10 +2,10 @@
 
 I'm a web developer with a broad background in tech, writing, and research.
 
-- 😄 Pronouns: he/him or they/them
+- 💬 Pronouns: he/him or they/them
 - 😍 I get excited by: interactive stories with data [like this](https://pudding.cool/2022/04/random/)
 - 💻 I'm currently: open to work and collaborations
-- 📫 You can reach me at: jameskerr.dev@gmail.com or [LinkedIn](https://www.linkedin.com/in/james-a-kerr/)
+- 📫 Say hi at: jameskerr.dev@gmail.com or [LinkedIn](https://www.linkedin.com/in/james-a-kerr/)
 
 You can read some more [about me here](https://jameskerr.dev).
 
