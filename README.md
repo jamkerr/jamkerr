@@ -11,7 +11,7 @@ You can read some more [about me here](https://jameskerr.dev).
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamkerr&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamkerr&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
 [![James' GitHub stats](https://github-readme-stats.vercel.app/api?username=jamkerr&theme=jolly&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
