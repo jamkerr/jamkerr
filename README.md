@@ -7,7 +7,7 @@ I'm a web developer with a broad background in tech, writing, and research.
 - 💻 I'm currently: open to work and collaborations
 - 📫 Say hi at: jameskerr.dev@gmail.com or [LinkedIn](https://www.linkedin.com/in/james-a-kerr/)
 
-You can read some more about me on [my profile page](https://jameskerr.dev).
+You can read some more about me on [my profile site](https://jameskerr.dev).
 
 ---
 
