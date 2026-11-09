@@ -1,6 +1,6 @@
 ### Hi 👋, I'm James!
 
-I'm a web developer with a broad background in tech, writing, and research.
+I'm a software engineer with a broad background in tech, writing, and research.
 
 - 💬 Pronouns: he/him or they/them
 - 😍 I get excited by: interactive stories with data [like this](https://pudding.cool/2022/04/random/)
